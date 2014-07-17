@@ -7,6 +7,7 @@ APP.Config = (function(window) {
 		this.LOCALHOST = LOCALHOST;
 		this.PROD  = PROD;
 		this.WEB_ROOT = WEB_ROOT;
+		this.JS_3D_MODELS = WEB_ROOT+'src/js/3d-models/';
 		
 		this.BROWSER = null;
 		this.BROWSER_VERSION = null;
